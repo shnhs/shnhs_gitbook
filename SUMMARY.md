@@ -6,7 +6,7 @@
 
 ## 짧은 무언가
 
-* [OSI 7계층](snippet/osi\_7.md)
+* [OSI 7계층](undefined/01\_what\_is\_http.md)
 
 ## 데브로드
 
