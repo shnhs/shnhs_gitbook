@@ -2,17 +2,14 @@
 
 ## GitBook
 
-- [Git Book 가이드](README.md)
+* [Git Book 가이드](README.md)
 
 ## 짧은 무언가
 
-- [OSI 7계층](/snippet/osi_7.md)
+* [OSI 7계층](snippet/osi\_7.md)
 
 ## 데브로드
 
-- [1주차](/devRoad/week1/week1.md)
-  - [HTTP의 이해](/devRoad/week1/01_what_is_http.md)
-  - [HTTP 클라이언트](/devRoad/week1/02_http_client.md)
-  - [HTTP 서버](/devRoad/week1/03_http_server.md)
-  - [Java HTTP](/devRoad/week1/04_java_http_server.md)
-  - [Spring MVC HTTP](/devRoad/week1/05_spring_http.md)
+* [1주차](devRoad/week1/week1.md)
+  * [HTTP의 이해](devRoad/week1/01\_what\_is\_http.md)
+* [Page 1](undefined-1/page-1.md)
