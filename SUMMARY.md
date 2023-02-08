@@ -23,3 +23,5 @@
   - [REST의 이해](devRoad/week2/01_what_is_rest.md)
   - [URI & MIME](devRoad/week2/02_uri_mime.md)
   - [Collection Pattern](devRoad/week2/03_collection_pattern.md)
+  - [CRUD](devRoad/week2/04_crud.md)
+  - [Spring Web MVC](devRoad/week2/05_spring_mvc.md)
