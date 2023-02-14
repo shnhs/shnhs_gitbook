@@ -25,3 +25,10 @@
   - [Collection Pattern](devRoad/week2/03_collection_pattern.md)
   - [CRUD](devRoad/week2/04_crud.md)
   - [Spring Web MVC](devRoad/week2/05_spring_mvc.md)
+
+- [3주차](devRoad/week2/week3.md)
+
+  - [DTO란](devRoad/week3/01_dto.md)
+  - [직렬화](devRoad/week3/02_serialization.md)
+  - [Jackson 라이브러리](devRoad/week3/03_jackson.md)
+  - [CORS](devRoad/week3/04_cors.md)
