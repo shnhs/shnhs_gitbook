@@ -38,3 +38,7 @@
   - [Layered Architecture](devRoad/week4/01_layered_architecture.md)
   - [DAO](devRoad/week4/02_dao.md)
   - [Domain Model](devRoad/week4/03_domain_model.md)
+
+- [5주차](devRoad/week4/week5.md)
+
+  - [AOP](devRoad/week5/01_spring_aop.md)
