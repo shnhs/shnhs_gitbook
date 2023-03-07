@@ -49,3 +49,4 @@
 - [6주차](devRoad/week4/week6.md)
 
   - [Database](devRoad/week6/01_database.md)
+  - [Relational Model](devRoad/week6/02_Relation_model.md)
