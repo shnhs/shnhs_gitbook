@@ -50,3 +50,6 @@
 
   - [Database](devRoad/week6/01_database.md)
   - [Relational Model](devRoad/week6/02_Relation_model.md)
+  - [Relational Algebra](devRoad/week6/03_Relational%20Algebra.md)
+  - [Entity Relationship Model](devRoad/week6/04_Entity_Relationship_Model.md)
+  - [JDBC](devRoad/week6/05_jdbc.md)

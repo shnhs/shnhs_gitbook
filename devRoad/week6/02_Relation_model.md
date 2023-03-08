@@ -39,24 +39,3 @@
 보통 DB에서 데이터 테이블이라고 생각해도 무방하다.
 
 ---
-
-## 참고사항
-
-ERM; Entity Relationship Model 에서의 Relationship과  
-RM; Relational Model 에서의 Relation의 차이는 무엇일까?
-
-### Entity Relationship Model
-
-일단 ERM은 설계한 데이터 모델을 개체, 속성, 관계로 구분하여 정리하는 것을 의미한다.
-
-![ERM](./image/ERM.PNG)
-
-학생과 수업 이라는 개체가 있고, 각 개체는 고유한 속성을 가진다.  
-학습은 학번, 이름, 학년 이라는 속성을 가지며,  
-수업은 수업 번호, 수업 이름이라는 속성을 가진다.  
-그리고 두 개체 사이에는 학생이 수업을 '수강한다'라는 관계를 가진다.
-
-이처럼 ERM의 Relationship은 개체사이의 '관계'를 의미한다.  
-RM의 Relation은 Tuple의 집합, 더 일반적인 용어로 표현하면 데이터 테이블을 의미한다.
-
-둘은 사실 아무 상관 없는 용어다. 구분 잘하기…!
