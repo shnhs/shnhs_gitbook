@@ -53,3 +53,4 @@
   - [Relational Algebra](devRoad/week6/03_Relational%20Algebra.md)
   - [Entity Relationship Model](devRoad/week6/04_Entity_Relationship_Model.md)
   - [JDBC](devRoad/week6/05_jdbc.md)
+  - [Spring JDBC Template](devRoad/week6/06.spring_jdbc_template.md)
