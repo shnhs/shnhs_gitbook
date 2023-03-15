@@ -58,3 +58,5 @@
 - [7주차](devRoad/week7/week7.md)
 
   - [ORM](devRoad/week7/01_ORM.md)
+  - [Hibernate](devRoad/week7/02_Hibernate.md)
+  - [Embeddable](devRoad/week7/03_Embeddable.md)
