@@ -54,3 +54,7 @@
   - [Entity Relationship Model](devRoad/week6/04_Entity_Relationship_Model.md)
   - [JDBC](devRoad/week6/05_jdbc.md)
   - [Spring JDBC Template](devRoad/week6/06.spring_jdbc_template.md)
+
+- [7주차](devRoad/week7/week7.md)
+
+  - [ORM](devRoad/week7/01_ORM.md)
