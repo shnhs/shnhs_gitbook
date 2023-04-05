@@ -62,6 +62,9 @@
   - [Embeddable](devRoad/week7/03_Embeddable.md)
 
 - [8주차](devRoad/week8/week8.md)
+
   - [DDD](devRoad/week8/01_DDD.md)
   - [Strategic Design](devRoad/week8/02_strategic_design.md)
   - [Tactical Design](devRoad/week8/03_tactical_design.md)
+
+- [9주차](devRoad/week9/week9.md) -[SOLID](devRoad/week9/01_SOLID.md)
