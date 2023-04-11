@@ -71,3 +71,7 @@
 
   - [SOLID](devRoad/week9/01_SOLID.md)
   - [Hexagonal Architecture](devRoad/week9/02_hexagonal_architecture.md)
+
+- [10주차](devRoad/week10/week10.md)
+
+  - [Application Security](devRoad/week10/01_application_sercurity.md)
