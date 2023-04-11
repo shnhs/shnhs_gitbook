@@ -26,7 +26,7 @@ Presentation(UI) -> Domain -> Data 와 같은 형태로 의존적으로 설계�
 
 이름에서 알 수 있듯이 흔히 6각형의 이미지로 나타내곤 한다.
 
-![hexagonal Architecture](/devRoad/week9/img/hexa.png)
+![hexagonal Architecture](/devRoad/week09/img/hexa.png)
 
 사실 정확히 6각형일 필요는 없다.  
 바깥에 이미 존재하는 다른 연결 이외에 더 추가될 수 있음을 나타내는 의미 정도이다.

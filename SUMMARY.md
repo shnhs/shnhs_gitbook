@@ -10,68 +10,68 @@
 
 ## 데브로드
 
-- [1주차](devRoad/week1/week1.md)
+- [1주차](devRoad/week01/week01.md)
 
-  - [HTTP의 이해](devRoad/week1/01_what_is_http.md)
-  - [HTTP 클라이언트](/devRoad/week1/02_http_client.md)
-  - [HTTP 서버](/devRoad/week1/03_http_server.md)
-  - [Java HTTP 서버](/devRoad/week1/04_java_http_server.md)
-  - [Spring MVC HTTP 서버](/devRoad/week1/05_spring_http.md)
+  - [HTTP의 이해](devRoad/week01/01_what_is_http.md)
+  - [HTTP 클라이언트](/devRoad/week01/02_http_client.md)
+  - [HTTP 서버](/devRoad/week01/03_http_server.md)
+  - [Java HTTP 서버](/devRoad/week01/04_java_http_server.md)
+  - [Spring MVC HTTP 서버](/devRoad/week01/05_spring_http.md)
 
-- [2주차](devRoad/week2/week2.md)
+- [2주차](devRoad/week02/week02.md)
 
-  - [REST의 이해](devRoad/week2/01_what_is_rest.md)
-  - [URI & MIME](devRoad/week2/02_uri_mime.md)
-  - [Collection Pattern](devRoad/week2/03_collection_pattern.md)
-  - [CRUD](devRoad/week2/04_crud.md)
-  - [Spring Web MVC](devRoad/week2/05_spring_mvc.md)
+  - [REST의 이해](devRoad/week02/01_what_is_rest.md)
+  - [URI & MIME](devRoad/week02/02_uri_mime.md)
+  - [Collection Pattern](devRoad/week02/03_collection_pattern.md)
+  - [CRUD](devRoad/week02/04_crud.md)
+  - [Spring Web MVC](devRoad/week02/05_spring_mvc.md)
 
-- [3주차](devRoad/week3/week3.md)
+- [3주차](devRoad/week03/week03.md)
 
-  - [DTO란](devRoad/week3/01_dto.md)
-  - [직렬화](devRoad/week3/02_serialization.md)
-  - [Jackson 라이브러리](devRoad/week3/03_jackson.md)
-  - [CORS](devRoad/week3/04_cors.md)
+  - [DTO란](devRoad/week03/01_dto.md)
+  - [직렬화](devRoad/week03/02_serialization.md)
+  - [Jackson 라이브러리](devRoad/week03/03_jackson.md)
+  - [CORS](devRoad/week03/04_cors.md)
 
-- [4주차](devRoad/week4/week4.md)
+- [4주차](devRoad/week04/week04.md)
 
-  - [Layered Architecture](devRoad/week4/01_layered_architecture.md)
-  - [DAO](devRoad/week4/02_dao.md)
-  - [Domain Model](devRoad/week4/03_domain_model.md)
+  - [Layered Architecture](devRoad/week04/01_layered_architecture.md)
+  - [DAO](devRoad/week04/02_dao.md)
+  - [Domain Model](devRoad/week04/03_domain_model.md)
 
-- [5주차](devRoad/week4/week5.md)
+- [5주차](devRoad/week04/week05.md)
 
-  - [AOP](devRoad/week5/01_spring_aop.md)
-  - [Unit Test](devRoad/week5/02_unit_test.md)
-  - [Spring Test](devRoad/week5/03_spring_test.md)
-  - [TDD](devRoad/week5/04_tdd.md)
+  - [AOP](devRoad/week05/01_spring_aop.md)
+  - [Unit Test](devRoad/week05/02_unit_test.md)
+  - [Spring Test](devRoad/week05/03_spring_test.md)
+  - [TDD](devRoad/week05/04_tdd.md)
 
-- [6주차](devRoad/week4/week6.md)
+- [6주차](devRoad/week04/week06.md)
 
-  - [Database](devRoad/week6/01_database.md)
-  - [Relational Model](devRoad/week6/02_Relation_model.md)
-  - [Relational Algebra](devRoad/week6/03_Relational%20Algebra.md)
-  - [Entity Relationship Model](devRoad/week6/04_Entity_Relationship_Model.md)
-  - [JDBC](devRoad/week6/05_jdbc.md)
-  - [Spring JDBC Template](devRoad/week6/06.spring_jdbc_template.md)
+  - [Database](devRoad/week06/01_database.md)
+  - [Relational Model](devRoad/week06/02_Relation_model.md)
+  - [Relational Algebra](devRoad/week06/03_Relational%20Algebra.md)
+  - [Entity Relationship Model](devRoad/week06/04_Entity_Relationship_Model.md)
+  - [JDBC](devRoad/week06/05_jdbc.md)
+  - [Spring JDBC Template](devRoad/week06/06.spring_jdbc_template.md)
 
-- [7주차](devRoad/week7/week7.md)
+- [7주차](devRoad/week07/week07.md)
 
-  - [ORM](devRoad/week7/01_ORM.md)
-  - [Hibernate](devRoad/week7/02_Hibernate.md)
-  - [Embeddable](devRoad/week7/03_Embeddable.md)
+  - [ORM](devRoad/week07/01_ORM.md)
+  - [Hibernate](devRoad/week07/02_Hibernate.md)
+  - [Embeddable](devRoad/week07/03_Embeddable.md)
 
-- [8주차](devRoad/week8/week8.md)
+- [8주차](devRoad/week08/week08.md)
 
-  - [DDD](devRoad/week8/01_DDD.md)
-  - [Strategic Design](devRoad/week8/02_strategic_design.md)
-  - [Tactical Design](devRoad/week8/03_tactical_design.md)
+  - [DDD](devRoad/week08/01_DDD.md)
+  - [Strategic Design](devRoad/week08/02_strategic_design.md)
+  - [Tactical Design](devRoad/week08/03_tactical_design.md)
 
-- [9주차](devRoad/week9/week9.md)
+- [9주차](devRoad/week09/week09.md)
 
-  - [SOLID](devRoad/week9/01_SOLID.md)
-  - [Hexagonal Architecture](devRoad/week9/02_hexagonal_architecture.md)
+  - [SOLID](devRoad/week09/01_SOLID.md)
+  - [Hexagonal Architecture](devRoad/week09/02_hexagonal_architecture.md)
 
-- [10주차](devRoad/week10/week10.md)
+- [10주차](devRoad/week010/week010.md)
 
-  - [Application Security](devRoad/week10/01_application_sercurity.md)
+  - [Application Security](devRoad/week010/01_application_sercurity.md)
