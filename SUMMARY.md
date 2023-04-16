@@ -75,3 +75,6 @@
 - [10주차](devRoad/week010/week010.md)
 
   - [Application Security](devRoad/week010/01_application_sercurity.md)
+  - [Authentication](devRoad/week10/02_authentication.md)
+  - [Login, Logout](devRoad/week10/03_login_logout.md)
+  - [JWT](devRoad/week10/05_jwt.md)
