@@ -83,3 +83,8 @@
 
   - [Multipart/form-data](devRoad/week11/01_multipart_form_data.md)
   - [MockMultipart](devRoad/week11/02_mockMultipartFile.md)
+
+- [12주차](devRoad/week12/week12md)
+
+  - [CQRS](devRoad/week12/01_cqrs.md)
+  - [Redis](devRoad/week12/02_redis.md)
