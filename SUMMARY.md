@@ -60,6 +60,7 @@
   - [ORM](devRoad/week07/01_ORM.md)
   - [Hibernate](devRoad/week07/02_Hibernate.md)
   - [Embeddable](devRoad/week07/03_Embeddable.md)
+  - [Relation Mapping](devRoad/week07/04_Relationship_Mapping.md)
 
 - [8주차](devRoad/week08/week08.md)
 
