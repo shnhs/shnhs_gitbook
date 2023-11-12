@@ -10,82 +10,86 @@
 
 ## 데브로드
 
-- [1주차](devRoad/week01/week01.md)
+### 백엔드 생존코스
 
-  - [HTTP의 이해](devRoad/week01/01_what_is_http.md)
-  - [HTTP 클라이언트](/devRoad/week01/02_http_client.md)
-  - [HTTP 서버](/devRoad/week01/03_http_server.md)
-  - [Java HTTP 서버](/devRoad/week01/04_java_http_server.md)
-  - [Spring MVC HTTP 서버](/devRoad/week01/05_spring_http.md)
+- [1주차](devRoad/BE/week01/week01.md)
 
-- [2주차](devRoad/week02/week02.md)
+  - [HTTP의 이해](devRoad/BE/week01/01_what_is_http.md)
+  - [HTTP 클라이언트](/devRoad/BE/week01/02_http_client.md)
+  - [HTTP 서버](/devRoad/BE/week01/03_http_server.md)
+  - [Java HTTP 서버](/devRoad/BE/week01/04_java_http_server.md)
+  - [Spring MVC HTTP 서버](/devRoad/BE/week01/05_spring_http.md)
 
-  - [REST의 이해](devRoad/week02/01_what_is_rest.md)
-  - [URI & MIME](devRoad/week02/02_uri_mime.md)
-  - [Collection Pattern](devRoad/week02/03_collection_pattern.md)
-  - [CRUD](devRoad/week02/04_crud.md)
-  - [Spring Web MVC](devRoad/week02/05_spring_mvc.md)
+- [2주차](devRoad/BE/week02/week02.md)
 
-- [3주차](devRoad/week03/week03.md)
+  - [REST의 이해](devRoad/BE/week02/01_what_is_rest.md)
+  - [URI & MIME](devRoad/BE/week02/02_uri_mime.md)
+  - [Collection Pattern](devRoad/BE/week02/03_collection_pattern.md)
+  - [CRUD](devRoad/BE/week02/04_crud.md)
+  - [Spring Web MVC](devRoad/BE/week02/05_spring_mvc.md)
 
-  - [DTO란](devRoad/week03/01_dto.md)
-  - [직렬화](devRoad/week03/02_serialization.md)
-  - [Jackson 라이브러리](devRoad/week03/03_jackson.md)
-  - [CORS](devRoad/week03/04_cors.md)
+- [3주차](devRoad/BE/week03/week03.md)
 
-- [4주차](devRoad/week04/week04.md)
+  - [DTO란](devRoad/BE/week03/01_dto.md)
+  - [직렬화](devRoad/BE/week03/02_serialization.md)
+  - [Jackson 라이브러리](devRoad/BE/week03/03_jackson.md)
+  - [CORS](devRoad/BE/week03/04_cors.md)
 
-  - [Layered Architecture](devRoad/week04/01_layered_architecture.md)
-  - [DAO](devRoad/week04/02_dao.md)
-  - [Domain Model](devRoad/week04/03_domain_model.md)
+- [4주차](devRoad/BE/week04/week04.md)
 
-- [5주차](devRoad/week04/week05.md)
+  - [Layered Architecture](devRoad/BE/week04/01_layered_architecture.md)
+  - [DAO](devRoad/BE/week04/02_dao.md)
+  - [Domain Model](devRoad/BE/week04/03_domain_model.md)
 
-  - [AOP](devRoad/week05/01_spring_aop.md)
-  - [Unit Test](devRoad/week05/02_unit_test.md)
-  - [Spring Test](devRoad/week05/03_spring_test.md)
-  - [TDD](devRoad/week05/04_tdd.md)
+- [5주차](devRoad/BE/week04/week05.md)
 
-- [6주차](devRoad/week04/week06.md)
+  - [AOP](devRoad/BE/week05/01_spring_aop.md)
+  - [Unit Test](devRoad/BE/week05/02_unit_test.md)
+  - [Spring Test](devRoad/BE/week05/03_spring_test.md)
+  - [TDD](devRoad/BE/week05/04_tdd.md)
 
-  - [Database](devRoad/week06/01_database.md)
-  - [Relational Model](devRoad/week06/02_Relation_model.md)
-  - [Relational Algebra](devRoad/week06/03_Relational%20Algebra.md)
-  - [Entity Relationship Model](devRoad/week06/04_Entity_Relationship_Model.md)
-  - [JDBC](devRoad/week06/05_jdbc.md)
-  - [Spring JDBC Template](devRoad/week06/06.spring_jdbc_template.md)
+- [6주차](devRoad/BE/week04/week06.md)
 
-- [7주차](devRoad/week07/week07.md)
+  - [Database](devRoad/BE/week06/01_database.md)
+  - [Relational Model](devRoad/BE/week06/02_Relation_model.md)
+  - [Relational Algebra](devRoad/BE/week06/03_Relational%20Algebra.md)
+  - [Entity Relationship Model](devRoad/BE/week06/04_Entity_Relationship_Model.md)
+  - [JDBC](devRoad/BE/week06/05_jdbc.md)
+  - [Spring JDBC Template](devRoad/BE/week06/06.spring_jdbc_template.md)
 
-  - [ORM](devRoad/week07/01_ORM.md)
-  - [Hibernate](devRoad/week07/02_Hibernate.md)
-  - [Embeddable](devRoad/week07/03_Embeddable.md)
-  - [Relation Mapping](devRoad/week07/04_Relationship_Mapping.md)
+- [7주차](devRoad/BE/week07/week07.md)
 
-- [8주차](devRoad/week08/week08.md)
+  - [ORM](devRoad/BE/week07/01_ORM.md)
+  - [Hibernate](devRoad/BE/week07/02_Hibernate.md)
+  - [Embeddable](devRoad/BE/week07/03_Embeddable.md)
+  - [Relation Mapping](devRoad/BE/week07/04_Relationship_Mapping.md)
 
-  - [DDD](devRoad/week08/01_DDD.md)
-  - [Strategic Design](devRoad/week08/02_strategic_design.md)
-  - [Tactical Design](devRoad/week08/03_tactical_design.md)
+- [8주차](devRoad/BE/week08/week08.md)
 
-- [9주차](devRoad/week09/week09.md)
+  - [DDD](devRoad/BE/week08/01_DDD.md)
+  - [Strategic Design](devRoad/BE/week08/02_strategic_design.md)
+  - [Tactical Design](devRoad/BE/week08/03_tactical_design.md)
 
-  - [SOLID](devRoad/week09/01_SOLID.md)
-  - [Hexagonal Architecture](devRoad/week09/02_hexagonal_architecture.md)
+- [9주차](devRoad/BE/week09/week09.md)
 
-- [10주차](devRoad/week010/week010.md)
+  - [SOLID](devRoad/BE/week09/01_SOLID.md)
+  - [Hexagonal Architecture](devRoad/BE/week09/02_hexagonal_architecture.md)
 
-  - [Application Security](devRoad/week10/01_application_sercurity.md)
-  - [Authentication](devRoad/week10/02_authentication.md)
-  - [Login, Logout](devRoad/week10/03_login_logout.md)
-  - [JWT](devRoad/week10/05_jwt.md)
+- [10주차](devRoad/BE/week010/week010.md)
 
-- [11주차](devRoad/week11/week11md)
+  - [Application Security](devRoad/BE/week10/01_application_sercurity.md)
+  - [Authentication](devRoad/BE/week10/02_authentication.md)
+  - [Login, Logout](devRoad/BE/week10/03_login_logout.md)
+  - [JWT](devRoad/BE/week10/05_jwt.md)
 
-  - [Multipart/form-data](devRoad/week11/01_multipart_form_data.md)
-  - [MockMultipart](devRoad/week11/02_mockMultipartFile.md)
+- [11주차](devRoad/BE/week11/week11md)
 
-- [12주차](devRoad/week12/week12md)
+  - [Multipart/form-data](devRoad/BE/week11/01_multipart_form_data.md)
+  - [MockMultipart](devRoad/BE/week11/02_mockMultipartFile.md)
 
-  - [CQRS](devRoad/week12/01_cqrs.md)
-  - [Redis](devRoad/week12/02_redis.md)
+- [12주차](devRoad/BE/week12/week12md)
+
+  - [CQRS](devRoad/BE/week12/01_cqrs.md)
+  - [Redis](devRoad/BE/week12/02_redis.md)
+
+### 프론트엔드 생존코스
