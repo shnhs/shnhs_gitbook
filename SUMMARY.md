@@ -2,94 +2,70 @@
 
 ## GitBook
 
-- [Git Book 가이드](README.md)
+* [Git Book 가이드](README.md)
 
 ## 짧은 무언가
 
-- [OSI 7계층](/snippet/osi7.md)
+* [OSI 7계층](snippet/osi7.md)
 
-## 데브로드
+***
 
-### 백엔드 생존코스
-
-- [1주차](devRoad/BE/week01/week01.md)
-
-  - [HTTP의 이해](devRoad/BE/week01/01_what_is_http.md)
-  - [HTTP 클라이언트](/devRoad/BE/week01/02_http_client.md)
-  - [HTTP 서버](/devRoad/BE/week01/03_http_server.md)
-  - [Java HTTP 서버](/devRoad/BE/week01/04_java_http_server.md)
-  - [Spring MVC HTTP 서버](/devRoad/BE/week01/05_spring_http.md)
-
-- [2주차](devRoad/BE/week02/week02.md)
-
-  - [REST의 이해](devRoad/BE/week02/01_what_is_rest.md)
-  - [URI & MIME](devRoad/BE/week02/02_uri_mime.md)
-  - [Collection Pattern](devRoad/BE/week02/03_collection_pattern.md)
-  - [CRUD](devRoad/BE/week02/04_crud.md)
-  - [Spring Web MVC](devRoad/BE/week02/05_spring_mvc.md)
-
-- [3주차](devRoad/BE/week03/week03.md)
-
-  - [DTO란](devRoad/BE/week03/01_dto.md)
-  - [직렬화](devRoad/BE/week03/02_serialization.md)
-  - [Jackson 라이브러리](devRoad/BE/week03/03_jackson.md)
-  - [CORS](devRoad/BE/week03/04_cors.md)
-
-- [4주차](devRoad/BE/week04/week04.md)
-
-  - [Layered Architecture](devRoad/BE/week04/01_layered_architecture.md)
-  - [DAO](devRoad/BE/week04/02_dao.md)
-  - [Domain Model](devRoad/BE/week04/03_domain_model.md)
-
-- [5주차](devRoad/BE/week04/week05.md)
-
-  - [AOP](devRoad/BE/week05/01_spring_aop.md)
-  - [Unit Test](devRoad/BE/week05/02_unit_test.md)
-  - [Spring Test](devRoad/BE/week05/03_spring_test.md)
-  - [TDD](devRoad/BE/week05/04_tdd.md)
-
-- [6주차](devRoad/BE/week04/week06.md)
-
-  - [Database](devRoad/BE/week06/01_database.md)
-  - [Relational Model](devRoad/BE/week06/02_Relation_model.md)
-  - [Relational Algebra](devRoad/BE/week06/03_Relational%20Algebra.md)
-  - [Entity Relationship Model](devRoad/BE/week06/04_Entity_Relationship_Model.md)
-  - [JDBC](devRoad/BE/week06/05_jdbc.md)
-  - [Spring JDBC Template](devRoad/BE/week06/06.spring_jdbc_template.md)
-
-- [7주차](devRoad/BE/week07/week07.md)
-
-  - [ORM](devRoad/BE/week07/01_ORM.md)
-  - [Hibernate](devRoad/BE/week07/02_Hibernate.md)
-  - [Embeddable](devRoad/BE/week07/03_Embeddable.md)
-  - [Relation Mapping](devRoad/BE/week07/04_Relationship_Mapping.md)
-
-- [8주차](devRoad/BE/week08/week08.md)
-
-  - [DDD](devRoad/BE/week08/01_DDD.md)
-  - [Strategic Design](devRoad/BE/week08/02_strategic_design.md)
-  - [Tactical Design](devRoad/BE/week08/03_tactical_design.md)
-
-- [9주차](devRoad/BE/week09/week09.md)
-
-  - [SOLID](devRoad/BE/week09/01_SOLID.md)
-  - [Hexagonal Architecture](devRoad/BE/week09/02_hexagonal_architecture.md)
-
-- [10주차](devRoad/BE/week010/week010.md)
-
-  - [Application Security](devRoad/BE/week10/01_application_sercurity.md)
-  - [Authentication](devRoad/BE/week10/02_authentication.md)
-  - [Login, Logout](devRoad/BE/week10/03_login_logout.md)
-  - [JWT](devRoad/BE/week10/05_jwt.md)
-
-- [11주차](devRoad/BE/week11/week11md)
-
-  - [Multipart/form-data](devRoad/BE/week11/01_multipart_form_data.md)
-  - [MockMultipart](devRoad/BE/week11/02_mockMultipartFile.md)
-
-- [12주차](devRoad/BE/week12/week12md)
-
-  - [CQRS](devRoad/BE/week12/01_cqrs.md)
-  - [Redis](devRoad/BE/week12/02_redis.md)
-
-### 프론트엔드 생존코스
+* [데브로드](undefined-1/README.md)
+  * [백엔드 생존코스](undefined-1/undefined/README.md)
+    * [1주차](undefined-1/undefined/1/README.md)
+      * [HTTP의 이해](undefined-1/undefined/1/01\_what\_is\_http.md)
+      * [HTTP 클라이언트](undefined-1/undefined/1/02\_http\_client.md)
+      * [HTTP 서버](undefined-1/undefined/1/03\_http\_server.md)
+      * [Java HTTP 서버](undefined-1/undefined/1/04\_java\_http\_server.md)
+      * [Spring MVC HTTP 서버](undefined-1/undefined/1/05\_spring\_http.md)
+    * [2주차](undefined-1/undefined/2/README.md)
+      * [REST의 이해](undefined-1/undefined/2/01\_what\_is\_rest.md)
+      * [URI & MIME](undefined-1/undefined/2/02\_uri\_mime.md)
+      * [Collection Pattern](undefined-1/undefined/2/03\_collection\_pattern.md)
+      * [CRUD](undefined-1/undefined/2/04\_crud.md)
+      * [Spring Web MVC](undefined-1/undefined/2/05\_spring\_mvc.md)
+    * [3주차](undefined-1/undefined/3/README.md)
+      * [DTO란](undefined-1/undefined/3/01\_dto.md)
+      * [직렬화](undefined-1/undefined/3/02\_serialization.md)
+      * [Jackson 라이브러리](undefined-1/undefined/3/03\_jackson.md)
+      * [CORS](undefined-1/undefined/3/04\_cors.md)
+    * [4주차](undefined-1/undefined/4/README.md)
+      * [Layered Architecture](undefined-1/undefined/4/01\_layered\_architecture.md)
+      * [DAO](undefined-1/undefined/4/02\_dao.md)
+      * [Domain Model](undefined-1/undefined/4/03\_domain\_model.md)
+    * [5주차](undefined-1/undefined/5/README.md)
+      * [AOP](undefined-1/undefined/5/01\_spring\_aop.md)
+      * [Unit Test](undefined-1/undefined/5/02\_unit\_test.md)
+      * [Spring Test](undefined-1/undefined/5/03\_spring\_test.md)
+      * [TDD](undefined-1/undefined/5/04\_tdd.md)
+    * [6주차](undefined-1/undefined/6/README.md)
+      * [Database](undefined-1/undefined/6/01\_database.md)
+      * [Relational Model](undefined-1/undefined/6/02\_relation\_model.md)
+      * [Relational Algebra](undefined-1/undefined/6/03\_relational-algebra.md)
+      * [Entity Relationship Model](undefined-1/undefined/6/04\_entity\_relationship\_model.md)
+      * [JDBC](undefined-1/undefined/6/05\_jdbc.md)
+      * [Spring JDBC Template](undefined-1/undefined/6/06.spring\_jdbc\_template.md)
+    * [7주차](undefined-1/undefined/7/README.md)
+      * [ORM](undefined-1/undefined/7/01\_orm.md)
+      * [Hibernate](undefined-1/undefined/7/02\_hibernate.md)
+      * [Embeddable](undefined-1/undefined/7/03\_embeddable.md)
+      * [Relation Mapping](undefined-1/undefined/7/04\_relationship\_mapping.md)
+    * [8주차](undefined-1/undefined/8/README.md)
+      * [DDD](undefined-1/undefined/8/01\_ddd.md)
+      * [Strategic Design](undefined-1/undefined/8/02\_strategic\_design.md)
+      * [Tactical Design](undefined-1/undefined/8/03\_tactical\_design.md)
+    * [9주차](undefined-1/undefined/9/README.md)
+      * [SOLID](undefined-1/undefined/9/01\_solid.md)
+      * [Hexagonal Architecture](undefined-1/undefined/9/02\_hexagonal\_architecture.md)
+    * [10주차](undefined-1/undefined/10/README.md)
+      * [Application Security](undefined-1/undefined/10/01\_application\_sercurity.md)
+      * [Authentication](undefined-1/undefined/10/02\_authentication.md)
+      * [Login, Logout](undefined-1/undefined/10/03\_login\_logout.md)
+      * [JWT](undefined-1/undefined/10/05\_jwt.md)
+    * [11주차](undefined-1/undefined/11/README.md)
+      * [Multipart/form-data](undefined-1/undefined/11/01\_multipart\_form\_data.md)
+      * [MockMultipart](undefined-1/undefined/11/02\_mockmultipartfile.md)
+    * [12주차](undefined-1/undefined/12/README.md)
+      * [CQRS](undefined-1/undefined/12/01\_cqrs.md)
+      * [Redis](undefined-1/undefined/12/02\_redis.md)
+  * [프론트엔드 생존코스](undefined-1/undefined-1.md)
