@@ -71,3 +71,5 @@
     - [Redis](devRoad/BE/week12/02_redis.md)
 - [프론트엔드 생존코스](devRoad/FE/README.md)
   - [1주차](devRoad/FE/week01/README.md)
+    - [Dev Environment Setting](devRoad/FE/week01/01_develop_setting.md)
+    - [TypeScript](devRoad/FE/week01/02_typescript.md)
