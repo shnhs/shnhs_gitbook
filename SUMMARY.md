@@ -73,3 +73,6 @@
   - [1주차](devRoad/FE/week01/README.md)
     - [Dev Environment Setting](devRoad/FE/week01/01_develop_setting.md)
     - [TypeScript](devRoad/FE/week01/02_typescript.md)
+  - [2주차](devRoad/FE/week02/README.md)
+    - [JSX](devRoad/FE/week02/01_jsx.md)
+    - [DOM](devRoad/FE/week02/02_dom.md)
