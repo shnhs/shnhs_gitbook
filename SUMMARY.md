@@ -83,3 +83,8 @@
     - [Express](devRoad/FE/week04/01_express.md)
     - [Fetch API](devRoad/FE/week04/02_fetch_api.md)
     - [Hooks](devRoad/FE/week04/03_hooks.md)
+  - [5주차](devRoad/FE/week05/README.md)
+    - [TDD](devRoad/FE/week05/01_tdd.md)
+    - [React Testing Library](devRoad/FE/week05/02_react_testing_library.md)
+    - [MSW](devRoad/FE/week05/03_msw.md)
+    - [Playwright](devRoad/FE/week05/04.playwright.md)
