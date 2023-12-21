@@ -88,3 +88,7 @@
     - [React Testing Library](devRoad/FE/week05/02_react_testing_library.md)
     - [MSW](devRoad/FE/week05/03_msw.md)
     - [Playwright](devRoad/FE/week05/04.playwright.md)
+  - [6주차](devRoad/FE/week06/README.md)
+    - [External Store](devRoad/FE/week06/01_external_store.md)
+    - [TSyringe](devRoad/FE/week06/02_tsyringe.md)
+    - [Redux](devRoad/FE/week06/03_redux.md)
